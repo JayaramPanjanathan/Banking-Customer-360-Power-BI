@@ -24,7 +24,6 @@ Banking data is often stored across separate tables and systems. This can make i
 - Power BI
 - Power Query
 - DAX
-- SQL
 - Excel
 - GitHub
 
